@@ -8,9 +8,6 @@ global.autoblockmorroco = false //auto block 212 (true to on, false to off)
 global.autokickmorroco = false //auto kick 212 (true to on, false to off) 
 global.antispam = false //auto kick spammer (true to on, false to off)
 
-
-//api key
-global.apikey = 'APOLOZEA'
 //if api key expire, u can generate one from here: https://beta.openai.com/account/api-keys
 global.keyopenai = "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"
 
